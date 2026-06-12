@@ -109,7 +109,7 @@ export default function LandingPage() {
             </div>
             <div className="detail-card">
               <h4>Competitive Kicker</h4>
-              <p className="detail-value">+20% for AI migrations</p>
+              <p className="detail-value">+10% for AI migrations</p>
               <p className="detail-desc">Moving from OpenAI or Gemini</p>
             </div>
           </div>
